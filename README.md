@@ -1,4 +1,4 @@
 InvertedIndex
 =============
 
-Inverted index for large documents in MapReduce format. Apach Hadoop, Java
+Inverted index for large documents in MapReduce format. Apache Hadoop, Java
